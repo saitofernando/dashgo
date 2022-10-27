@@ -18,7 +18,7 @@ export function Header() {
             fontWeight="bold"
             letterSpacing="tight"
             w="64"
-            color="orange.400"
+            color="#F59B19"
           >        
             
             CONSERVARE
@@ -36,7 +36,7 @@ export function Header() {
           alignSelf="center"
           color="gray-200"
           position="relative"
-          bg="gray.800"
+          bg="blue.900"
           borderRadius="full"
         >
           <Input 
